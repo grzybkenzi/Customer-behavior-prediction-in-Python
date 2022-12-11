@@ -10,7 +10,7 @@ Nowadays, machine learning is widely used in ecommerce. The main purpose of the 
 - [@grzybkenzi](https://github.com/grzybkenzi)
 
 
-### Predictors
+### Predictors:
 - gender 
 - age
 - estimated salary 
