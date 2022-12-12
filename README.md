@@ -5,11 +5,6 @@
 # Customer behavior prediction in Python
 Nowadays, machine learning is widely used in ecommerce. The main purpose of the project is to build and compare the accuracy of different classification models (Logistic Regression, Decision Tree, Random Forest) in terms of predicting customer behavior. The models were built on 80% of a dataset that contains information about 400 customers and their purchase history of a specific good. The goal is to predict whether or not someone will buy a particular product in the future.
 
-### Author
-
-- [@grzybkenzi](https://github.com/grzybkenzi)
-
-
 ### Predictors:
 - gender 
 - age
@@ -17,3 +12,7 @@ Nowadays, machine learning is widely used in ecommerce. The main purpose of the 
 
 ### Target variable: 
 - purchased 
+
+### Author
+[@grzybkenzi](https://github.com/grzybkenzi)
+
